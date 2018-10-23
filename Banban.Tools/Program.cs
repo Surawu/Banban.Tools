@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Banban.Tools
 {
     /// <summary>
-    /// 替换.param文件里本地化L字符 
+    /// 替换.param文件里本地化L字符
     /// </summary>
     class Program
     {
