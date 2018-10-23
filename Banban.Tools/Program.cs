@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Banban.Tools
+namespace Banban.Tools 
 {
     /// <summary>
     /// 替换.param文件里本地化L字符 
