@@ -7,7 +7,7 @@
     <ProjectGuid>{4E7D0E14-3BB3-472B-8FDE-A596126B6114}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Banban.Tools</RootNamespace>
-    <AssemblyName>Banban.Tools</AssemblyName>
+    <AssemblyName>Tools.RepalceChar</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
