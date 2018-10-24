@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace ReplaceChar 
+namespace ReplaceChar
 {
     /// <summary>
     /// 替换.param文件里本地化L字符
