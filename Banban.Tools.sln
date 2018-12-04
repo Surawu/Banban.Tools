@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.RepalceChar", "Banban.Tools\Tools.RepalceChar.csproj", "{4E7D0E14-3BB3-472B-8FDE-A596126B6114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDom_MSBuild", "CodeDom_MSBuild\CodeDom_MSBuild.csproj", "{82C84B93-2E91-4B69-BEF9-E8F93E7B7831}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{A8B5ADD5-FFE5-42C6-98C4-D6C64826D3A5}"
+	ProjectSection(SolutionItems) = preProject
+		history.md = history.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{4E7D0E14-3BB3-472B-8FDE-A596126B6114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E7D0E14-3BB3-472B-8FDE-A596126B6114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E7D0E14-3BB3-472B-8FDE-A596126B6114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C84B93-2E91-4B69-BEF9-E8F93E7B7831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C84B93-2E91-4B69-BEF9-E8F93E7B7831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C84B93-2E91-4B69-BEF9-E8F93E7B7831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C84B93-2E91-4B69-BEF9-E8F93E7B7831}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
