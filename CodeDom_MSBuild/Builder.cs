@@ -65,7 +65,7 @@ namespace CodeDom_MSBuild
                 {
                     refgroup.AddItem("Reference", reference);
                 }
-                #endregion
+                #endregion 
 
                 #region Add Build Items
                 var buildgroup = project.Xml.CreateItemGroupElement();
